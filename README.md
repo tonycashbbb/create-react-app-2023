@@ -1,21 +1,21 @@
 <div>
   <h1 align="center">
-    Pre-configured React project for 2023 🚀
+    Create React App for 2023 🚀
   </h1>
 
   <p>
-    This project contains the best technologies for start CSR React application in 2023 year. To improve your experience everything is already configured. Powered by <a href="https://feature-sliced.design">FSD (Feature-Sliced Design)</a> architectural methodology. 
+    This project contains the best technologies for start CSR React application in 2023 year. To improve your experience everything is already configured. Powered by FSD (Feature-Sliced Design) architectural methodology.
   </p>
 </div>
 
 <hr />
 
+[![Feature-Sliced Design][badges-fsd]](https://feature-sliced.design/)
 [![React][badges-react]](https://react.dev/)
 [![React Router][badges-react-router]](https://reactrouter.com/)
 [![React Query][badges-react-query]](https://tanstack.com/query/v4/)
 [![Axios][badges-axios]](https://axios-http.com/)
 [![TypeScript][badges-typescript]](https://www.typescriptlang.org/)
-[![Feature-Sliced Design][badges-fsd]](https://feature-sliced.design/)
 [![Vite][badges-vite]](https://vitejs.dev/)
 [![Tailwind CSS][badges-tailwind]](https://tailwindcss.com/)
 [![Headless UI][badges-headlessui]](https://headlessui.com/)
@@ -37,14 +37,14 @@
 [badges-prettier]: https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=grey
 [badges-eslint]: https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint
 
-## Make everything work
+## Something went wrong...
+Some technologies might not work in your IDE. Here are some **tips** for some of them to resolve the issue:
 
-**Tailwind**
-1. Webstorm version 2023.2
-1. Have a plugin "Tailwind CSS" in webstorm  installed and enabled
+### Tailwind
+Webstorm version 2023.2. Plugin "Tailwind CSS" in webstorm should be installed and enabled.
 
-**Prettier & ESLint**
-1. Check "run on save" in Prettier & ESLint settings
+### Prettier & ESLint
+Path to manual configuration. Check mark on "run on save" in Prettier & ESLint settings.
 
-**Webstorm configuration**
-1. Go to package.json and hit "green-play-triangle" to start a project. It will automatically save in webstorm configuration
+### Webstorm configuration
+Go to package.json and hit "green-play-triangle" to start a project. It will automatically save in webstorm configuration.
